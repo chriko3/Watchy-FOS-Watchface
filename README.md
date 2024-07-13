@@ -16,5 +16,19 @@ This is my first watchface.
 * **Weather:** Weather forecast for the set location.
 * **Battery:** Battery level of the device.
 
+## Setup
+Before everything works you have to set a few things:
+### Watchy_FOS.cpp
+* Your name
+* Comment out kilometers or miles
+* Comment out celsius or fahrenheit
+
+### settings.h
+* Insert CITY_ID
+* Insert your API key for wether OPENWEATHERMAP_APIKEY
+* Select in TEMP_UNIT metric or imperial
+* Choose your language TEMP_LANG
+
+
 ## Contribution
 Contributions are welcome! If you find a bug or would like to propose an enhancement, please reach out on my [Discord](https://discord.com/invite/bpBw3dzrzD).  
