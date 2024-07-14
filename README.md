@@ -15,6 +15,7 @@ This is my first watchface.
 * **Temperature:** Current temperature at the location.
 * **Weather:** Weather forecast for the set location.
 * **Battery:** Battery level of the device.
+* **Charging status:** Shows whether the watch is charging.
 
 ## Setup
 Before everything works you have to set a few things:
