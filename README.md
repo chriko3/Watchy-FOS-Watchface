@@ -2,7 +2,9 @@
 Watchy FOS is a minimalist watchface for the SQFMI Watchy. FOS stands for file operating system. The watchface is a modified version of the [DOS](https://github.com/sqfmi/Watchy/tree/master/examples/WatchFaces/DOS) watchface.
 This is my first watchface.
 
+
 <img src="https://github.com/chriko3/Watchy-FOS-Watchface/blob/Master/Watchy_FOS.jpg" width="300" />
+
 
 # Features
 * **Time:** Displays the current time.
